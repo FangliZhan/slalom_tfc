@@ -82,6 +82,5 @@ resource "aws_iam_account_password_policy" "strict" {
 // terraform output password | base64 --decode | keybase pgp decrypt
 // echo "password" | base64 --decode | keybase pgp decrypt
 
-//account id: 115591414427
 
 
